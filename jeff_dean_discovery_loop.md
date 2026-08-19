@@ -61,3 +61,7 @@ Discovery Loop想做的，是把這個迴圈的每一步都自動化，並且讓
 ## 延伸閱讀
 
 - 影片原始連結：https://youtube.com/watch?v=0kC3xOZChdA
+- [Jeff Dean and other top AI researchers are leaving Google to launch their own startup（TechCrunch）](https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/) — 證實對談發生前一天（2026/8/5）Dean偕Sanjay Ghemawat、Oriol Vinyals、Quoc Le正式創立Discovery Loop，Google本身也是創始投資人與雲端合作夥伴
+- [The startup idea that convinced a UW computer science legend to leave Google after 27 years（GeekWire）](https://www.geekwire.com/2026/the-startup-idea-that-convinced-a-uw-computer-science-legend-to-leave-google-after-27-years/)
+- [Our Investment in Discovery Loop（Radical Ventures）](https://radical.vc/our-investment-in-discovery-loop/)
+- [當AI開始自己做實驗：Jeff Dean出走之後，科學發現還剩下什麼是人類的？](https://lushinshang.github.io/deepmind_caoyuan_ai4science/) — 前DeepMind研究科學家曹原對同一起離職事件的深度解讀，聚焦AI for Science賽道與「概念抽象」這道AGI最後一哩路

@@ -20,3 +20,10 @@ Jeff Dean在Google待了二十七年，做出MapReduce、BigTable、TensorFlow�
 
 - 影片：https://youtube.com/watch?v=0kC3xOZChdA
 - 逐字稿：`../transcription/Jeff_Dean__2026_Frontier_&_Pioneer_Symposium_0kC3xOZChdA.srt`
+
+## 相關報導與延伸閱讀
+
+- [Jeff Dean and other top AI researchers are leaving Google to launch their own startup（TechCrunch）](https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/) — 獨立佐證文中提及的離職時間點、共同創辦人名單、Google作為創始投資人的細節
+- [The startup idea that convinced a UW computer science legend to leave Google after 27 years（GeekWire）](https://www.geekwire.com/2026/the-startup-idea-that-convinced-a-uw-computer-science-legend-to-leave-google-after-27-years/)
+- [Our Investment in Discovery Loop（Radical Ventures）](https://radical.vc/our-investment-in-discovery-loop/)
+- [當AI開始自己做實驗：Jeff Dean出走之後，科學發現還剩下什麼是人類的？](https://lushinshang.github.io/deepmind_caoyuan_ai4science/) — 同系列文章，前DeepMind研究科學家曹原對同一起離職事件的深度解讀
